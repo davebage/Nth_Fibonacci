@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Nth_Fibonacci/1.0.0": {
+        "runtime": {
+          "Nth_Fibonacci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nth_Fibonacci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

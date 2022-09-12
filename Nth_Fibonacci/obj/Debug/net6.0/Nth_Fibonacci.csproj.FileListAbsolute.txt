@@ -1,0 +1,12 @@
+C:\Users\Codurance_Dave\projects\Agile_Practices_Distilled\Nth_Fibonacci\Nth_Fibonacci\bin\Debug\net6.0\Nth_Fibonacci.deps.json
+C:\Users\Codurance_Dave\projects\Agile_Practices_Distilled\Nth_Fibonacci\Nth_Fibonacci\bin\Debug\net6.0\Nth_Fibonacci.dll
+C:\Users\Codurance_Dave\projects\Agile_Practices_Distilled\Nth_Fibonacci\Nth_Fibonacci\bin\Debug\net6.0\ref\Nth_Fibonacci.dll
+C:\Users\Codurance_Dave\projects\Agile_Practices_Distilled\Nth_Fibonacci\Nth_Fibonacci\bin\Debug\net6.0\Nth_Fibonacci.pdb
+C:\Users\Codurance_Dave\projects\Agile_Practices_Distilled\Nth_Fibonacci\Nth_Fibonacci\obj\Debug\net6.0\Nth_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Codurance_Dave\projects\Agile_Practices_Distilled\Nth_Fibonacci\Nth_Fibonacci\obj\Debug\net6.0\Nth_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Codurance_Dave\projects\Agile_Practices_Distilled\Nth_Fibonacci\Nth_Fibonacci\obj\Debug\net6.0\Nth_Fibonacci.AssemblyInfo.cs
+C:\Users\Codurance_Dave\projects\Agile_Practices_Distilled\Nth_Fibonacci\Nth_Fibonacci\obj\Debug\net6.0\Nth_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Codurance_Dave\projects\Agile_Practices_Distilled\Nth_Fibonacci\Nth_Fibonacci\obj\Debug\net6.0\Nth_Fibonacci.dll
+C:\Users\Codurance_Dave\projects\Agile_Practices_Distilled\Nth_Fibonacci\Nth_Fibonacci\obj\Debug\net6.0\ref\Nth_Fibonacci.dll
+C:\Users\Codurance_Dave\projects\Agile_Practices_Distilled\Nth_Fibonacci\Nth_Fibonacci\obj\Debug\net6.0\Nth_Fibonacci.pdb
+C:\Users\Codurance_Dave\projects\Agile_Practices_Distilled\Nth_Fibonacci\Nth_Fibonacci\obj\Debug\net6.0\Nth_Fibonacci.csproj.AssemblyReference.cache
